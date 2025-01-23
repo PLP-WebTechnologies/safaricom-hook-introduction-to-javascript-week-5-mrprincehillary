@@ -79,3 +79,10 @@ This assignment aims to test your understanding of JavaScript basics, control st
 - Have fun and get creative!  
 
 Happy Coding! 💻✨  
+
+Solutions
+![image](https://github.com/user-attachments/assets/671c4d14-e076-43cb-81fb-043703d7d170)
+
+![image](https://github.com/user-attachments/assets/4b3aa15a-4e41-423a-8f3f-64be39a7ccab)
+![image](https://github.com/user-attachments/assets/de652f98-b610-4ae9-bcd8-85efb13c28ce)
+![image](https://github.com/user-attachments/assets/2706e494-d7a7-4a5a-b72c-35dd01b2590f)
